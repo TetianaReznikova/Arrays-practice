@@ -26,6 +26,6 @@ String weekDay = sc.nextLine();
             default:
                 System.out.println("It's a non-working day");
         }
-
+sc.close();
     }
 }
